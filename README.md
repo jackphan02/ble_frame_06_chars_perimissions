@@ -1,0 +1,1 @@
+# ble_frame_06_chars_perimissions
